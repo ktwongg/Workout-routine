@@ -3,5 +3,5 @@ Tues: PUSH
 Wed: Rest day
 Thurs: Lower
 Fri:Core
-Sat: Rest
+Sat: Rest day
 Sun: PULL
